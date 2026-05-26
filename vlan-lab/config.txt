@@ -9,12 +9,6 @@ vlan 10
 vlan 20
  name IT
 
-vlan 30
- name HR
-
-vlan 40
- name Finance
-
 
 interface fastethernet 0/1
  switchport mode access
@@ -24,13 +18,6 @@ interface fastethernet 0/2
  switchport mode access
  switchport access vlan 20
 
-interface fastethernet 0/3
- switchport mode access
- switchport access vlan 30
-
-interface fastethernet 0/4
- switchport mode access
- switchport access vlan 40
 
 end
 write memory
