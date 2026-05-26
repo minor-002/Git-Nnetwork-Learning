@@ -1,7 +1,7 @@
 Network Automation Learning Journey
 
 About Me
-![Description of image]<img src="[images/lab.png](https://lede-admin.dailydot.com/wp-content/uploads/sites/69/2018/10/olli-the-polite-cat.jpg?w=1024)" width="600">
+<img src="[images/lab.png](https://lede-admin.dailydot.com/wp-content/uploads/sites/69/2018/10/olli-the-polite-cat.jpg?w=1024)" width="600">
 ``
 
 I am a seasoned traditional network engineer with extensive experience working with CLI. Currently, I am transitioning into network automation, driven by curiosity and a passion for continuous learning.
