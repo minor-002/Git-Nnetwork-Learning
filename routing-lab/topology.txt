@@ -1,0 +1,6 @@
+Simple Routing Topology
+
+PC1 --- R1 --- R2 --- PC2
+
+Network 1: 192.168.1.0/24
+Network 2: 192.168.2.0/24
