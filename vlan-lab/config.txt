@@ -1,0 +1,36 @@
+! VLAN Configuration Example
+
+enable
+configure terminal
+
+vlan 10
+ name SALES
+
+vlan 20
+ name IT
+
+vlan 30
+ name HR
+
+vlan 40
+ name Finance
+
+
+interface fastethernet 0/1
+ switchport mode access
+ switchport access vlan 10
+
+interface fastethernet 0/2
+ switchport mode access
+ switchport access vlan 20
+
+interface fastethernet 0/3
+ switchport mode access
+ switchport access vlan 30
+
+interface fastethernet 0/4
+ switchport mode access
+ switchport access vlan 40
+
+end
+write memory
