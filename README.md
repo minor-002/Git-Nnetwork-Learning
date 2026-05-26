@@ -28,4 +28,4 @@ Notes and experiments
 Incremental improvements as I learn
 
 📈 Journey Mindset
-I am starting from the basics, making mistakes, learning, and improving step by step. This repository reflects that journey :-)
+I am starting from the basics, making mistakes, learning, and improving step by step. This repository reflects that journey.😊
